@@ -8,9 +8,10 @@
 
 <hr>
 
+<div align="center">
+
 ### ✌️🦅🇺🇸🇪🇺🇵🇱🇪🇺🇺🇸🦅✌️
 
-<div align="center">  
 <img src="Screenshot_from_2025-05-28_11-26-07.png" width="" height=""/>
 
 ### ✌♻️🌌🚀🌎🌍🌏🛰🌌♻️✌
