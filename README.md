@@ -12,6 +12,8 @@
 
 ### ✌️🦅🇺🇸🇪🇺🇵🇱🇪🇺🇺🇸🦅✌️
 
+<img src="Screenshot_from_2025-05-28_12-58-28.png" width="" height=""/>
+
 <img src="Screenshot_from_2025-05-28_11-26-07.png" width="" height=""/>
 
 ### ✌♻️🌌🚀🌎🌍🌏🛰🌌♻️✌
