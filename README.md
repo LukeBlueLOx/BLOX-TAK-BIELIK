@@ -12,7 +12,9 @@
 
 ### ✌️🦅🇺🇸🇪🇺🇵🇱🇪🇺🇺🇸🦅✌️
 
-```ollama run SpeakLeash/bielik-11b-v2.3-instruct:Q5_K_M "Znajdź artykuł 13 Konstytucji RP w tym tekście i wyjaśnij $(cat konstytucja_fragment.txt)"```
+```ollama run SpeakLeash/bielik-11b-v2.3-instruct:Q5_K_M "BIELIKU znajdź artyku
+ł 13 Konstytucji RP w dostarczonym tekście, odczytaj go i wyjaśnij mi jego znaczenie $(cat konstytucja_fragment.txt)"
+```
 
 https://www.linkedin.com/posts/lukebluelox_polish-bielik-white-activity-7333472275402330113-GSX6
 
