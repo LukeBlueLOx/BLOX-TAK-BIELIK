@@ -19,11 +19,11 @@ ollama run bielik-q3l-custom "BIELIKU znajdź artykuł 13 Konstytucji RP w dosta
 https://www.linkedin.com/posts/lukebluelox_polish-bielik-white-activity-7333472275402330113-GSX6
 
 <img src="BLOX-TAK_SF_WP.png" width="" height=""/>
-
+<br>
 <img src="Screenshot_from_2025-05-29_05-25-57.png" width="" height=""/>
-
+<br>
 <img src="Screenshot_from_2025-05-29_05-17-54.png" width="" height=""/>
-
+<br>
 <img src="Screenshot_from_2025-05-29_05-18-02.png" width="" height=""/>
 
 ### ✌♻️🌌🚀🌎🌍🌏🛰🌌♻️✌
