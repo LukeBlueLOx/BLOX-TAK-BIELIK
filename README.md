@@ -30,6 +30,8 @@ https://bielik.ai
 
 https://huggingface.co/speakleash/Bielik-11B-v2.3-Instruct-GGUF-IQ-Imatrix
 
+https://huggingface.co/second-state/Bielik-11B-v2.3-Instruct-GGUF
+
 https://github.com/speakleash
 
 https://www.linkedin.com/in/lukebluelox/details/featured
