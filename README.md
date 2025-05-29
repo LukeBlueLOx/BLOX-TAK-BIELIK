@@ -13,14 +13,16 @@
 ### ✌️🦅🇺🇸🇪🇺🇵🇱🇪🇺🇺🇸🦅✌️
 
 ```
-ollama run SpeakLeash/bielik-11b-v2.3-instruct:Q5_K_M "BIELIKU znajdź artykuł 13 Konstytucji RP w dostarczonym tekście, odczytaj go i wyjaśnij mi jego znaczenie $(cat konstytucja_fragment.txt)"
+ollama run bielik-q3l-custom "BIELIKU znajdź artykuł 13 Konstytucji RP w dostarczonym tekście, odczytaj go i wyjaśnij mi jego znaczenie $(cat konstytucja_fragment.txt)"
 ```
 
 https://www.linkedin.com/posts/lukebluelox_polish-bielik-white-activity-7333472275402330113-GSX6
 
-<img src="Screenshot_from_2025-05-28_12-58-28.png" width="" height=""/>
+<img src="Screenshot_from_2025-05-29_05-25-57.png" width="" height=""/>
 
-<img src="Screenshot_from_2025-05-28_11-26-07.png" width="" height=""/>
+<img src="Screenshot_from_2025-05-29_05-17-54.png" width="" height=""/>
+
+<img src="Screenshot_from_2025-05-29_05-18-02.png" width="" height=""/>
 
 ### ✌♻️🌌🚀🌎🌍🌏🛰🌌♻️✌
 
