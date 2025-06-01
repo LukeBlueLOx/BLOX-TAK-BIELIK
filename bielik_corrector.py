@@ -146,8 +146,8 @@ def correct_text_with_ollama(*args):
                 # Zastąp oryginalny tekst (zaznaczenie lub cały dokument) poprawionym tekstem
                 if selection_object and hasattr(selection_object, 'setString'):
                     selection_object.setString(corrected_text)
-                    print("SUCCESS: Text corrected successfully by Ollama!")
-                    print("SUKCES: Tekst poprawiony pomyślnie przez Ollamę!")
+                    print("SUCCESS: Text corrected successfully by BIELIK!")
+                    print("SUKCES: Tekst poprawiony pomyślnie przez BIELIK!")
                 else:
                     print("ERROR: Could not replace text. Selection object is invalid or lacks setString method.")
                     print(
