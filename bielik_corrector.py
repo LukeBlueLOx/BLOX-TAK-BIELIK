@@ -147,7 +147,7 @@ def correct_text_with_ollama(*args):
                 if selection_object and hasattr(selection_object, 'setString'):
                     selection_object.setString(corrected_text)
                     print("SUCCESS: Text corrected successfully by BIELIK!")
-                    print("SUKCES: Tekst poprawiony pomyślnie przez BIELIK!")
+                    print("SUKCES: Tekst poprawiony pomyślnie przez BIELIK-a!")
                 else:
                     print("ERROR: Could not replace text. Selection object is invalid or lacks setString method.")
                     print(
