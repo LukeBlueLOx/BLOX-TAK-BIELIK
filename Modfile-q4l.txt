@@ -1,0 +1,10 @@
+FROM ./Bielik-4.5B-v3.0-Instruct-Q4_K_M.gguf
+
+TEMPLATE """<|im_start|>user
+{{ .Prompt }}<|im_end|>
+<|im_start|>assistant
+"""
+
+PARAMETER stop "<|im_start|>"
+PARAMETER stop "<|im_end|>"
+PARAMETER temperature 0.1

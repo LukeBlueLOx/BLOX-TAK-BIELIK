@@ -91,20 +91,20 @@ def correct_text_with_ollama(*args):
     OLLAMA_HOST = "localhost"  # or the IP address of your OrangePi if Ollama runs there
     # lub adres IP OrangePi, jeśli Ollama działa na nim
     OLLAMA_PORT = 11434
-    MODEL_NAME = "bielik-q3l-custom"  # Ensure this is the name of your model in Ollama
+    MODEL_NAME = "bielik-4.5b-q4km-final"  # Ensure this is the name of your model in Ollama
     # Upewnij się, że to nazwa Twojego modelu w Ollamie
 
-    # Prepare the prompt for Ollama
-    # Przygotuj prompt dla Ollamy
-    prompt_content = (
-        f"Correct spelling, grammar, and stylistic errors in the following Polish text. "
-        f"Ensure the text is grammatically correct and sounds natural in Polish. "
-        f"Return only the corrected text, without additional comments. Text to correct:\n\n{selected_text_original}"
+    # Prepare the prompt for Ollama exactly as it worked in the console
+    # Przygotuj prompt dla Ollamy dokładnie tak, jak zadziałał w konsoli
+    full_console_prompt = (
+        f"BIELIKU, popraw błędy ortograficzne, gramatyczne i stylistyczne w poniższym tekście. "
+        f"Upewnij się, że tekst jest poprawny językowo i naturalnie brzmiący po polsku. "
+        f"Zwróć tylko poprawiony tekst, bez dodatkowych komentarzy. "
+        f"Tekst do poprawy: {selected_text_original}"
     )
-    # Using Polish prompt for Ollama
-    # Używam polskiego promptu dla Ollamy
+
     messages_payload = [
-        {'role': 'user', 'content': prompt_content}
+        {'role': 'user', 'content': full_console_prompt}
     ]
 
     try:
