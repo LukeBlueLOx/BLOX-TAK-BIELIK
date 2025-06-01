@@ -15,6 +15,9 @@
 ```
 ollama run bielik-q3l-custom "BIELIKU znajdź artykuł 13 Konstytucji RP w dostarczonym tekście, odczytaj go i wyjaśnij mi jego znaczenie $(cat konstytucja_fragment.txt)"
 ```
+```
+ollama create bielik-4.5b-q4km-final -f Modfile-q4l.txt
+```
 
 https://www.linkedin.com/posts/lukebluelox_orangepi5-arm64-bielik-activity-7334592879618617345-Jk_5
 
