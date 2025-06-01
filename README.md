@@ -17,7 +17,7 @@ ollama create bielik-4.5b-q4km-final -f Modfile-q4km.txt
 ```
 
 ```
-ollama run bielik-4.5b-q4km-final "BIELIKU znajdź artykuł 13 Konstytucji RP w dostarczonym tekście, odczytaj go i wyjaśnij mi jego znaczenie $(cat konstytucja_fragment.txt)"
+ollama run bielik-4.5b-q4km-final "BIELIKU, znajdź artykuł 13 Konstytucji RP w dostarczonym tekście, odczytaj go i wyjaśnij mi jego znaczenie $(cat konstytucja_fragment.txt)"
 ```
 
 https://youtu.be/vwtCtTwkpao
