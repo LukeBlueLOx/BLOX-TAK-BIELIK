@@ -26,15 +26,8 @@ https://www.linkedin.com/posts/lukebluelox_polish-bielik-white-activity-73334722
 
 https://www.linkedin.com/posts/lukebluelox_github-repo-polish-activity-7333705246877044736-gYPO
 
-<img src="BLOX-TAK_SF_WP.png" width="" height=""/>
+<img src="BIELIK-AI_OrangePi5-ARM64.mp4" width="" height=""/>
 <br>
-<img src="Screenshot_from_2025-05-29_05-25-57.png" width="" height=""/>
-<br>
-<img src="Screenshot_from_2025-05-29_05-17-54.png" width="" height=""/>
-<br>
-<img src="Screenshot_from_2025-05-29_05-18-02.png" width="" height=""/>
-<br>
-<img src="6.png" width="" height=""/>
 
 ### ✌♻️🌌🚀🌎🌍🌏🛰🌌♻️✌
 
