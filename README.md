@@ -13,7 +13,7 @@
 ### ✌️🦅🇺🇸🇪🇺🇵🇱🇪🇺🇺🇸🦅✌️
 
 ```
-ollama create bielik-4.5b-q4km-final -f Modfile-q4l.txt
+ollama create bielik-4.5b-q4km-final -f Modfile-q4km.txt
 ```
 
 ```
