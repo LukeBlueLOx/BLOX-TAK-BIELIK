@@ -13,10 +13,11 @@
 ### ✌️🦅🇺🇸🇪🇺🇵🇱🇪🇺🇺🇸🦅✌️
 
 ```
-ollama run bielik-4.5b-q4km-final "BIELIKU znajdź artykuł 13 Konstytucji RP w dostarczonym tekście, odczytaj go i wyjaśnij mi jego znaczenie $(cat konstytucja_fragment.txt)"
-```
-```
 ollama create bielik-4.5b-q4km-final -f Modfile-q4l.txt
+```
+
+```
+ollama run bielik-4.5b-q4km-final "BIELIKU znajdź artykuł 13 Konstytucji RP w dostarczonym tekście, odczytaj go i wyjaśnij mi jego znaczenie $(cat konstytucja_fragment.txt)"
 ```
 
 https://www.linkedin.com/posts/lukebluelox_orangepi5-arm64-bielik-activity-7334592879618617345-Jk_5
@@ -39,9 +40,9 @@ https://www.linkedin.com/posts/lukebluelox_github-repo-polish-activity-733370524
 
 https://bielik.ai
 
-https://huggingface.co/speakleash/Bielik-11B-v2.3-Instruct-GGUF-IQ-Imatrix
+https://huggingface.co/speakleash
 
-https://huggingface.co/second-state/Bielik-11B-v2.3-Instruct-GGUF
+https://huggingface.co/second-state
 
 https://github.com/speakleash
 
