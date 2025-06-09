@@ -1,0 +1,7 @@
+--- Podsumowanie Uruchomienia BLOX-TAK-BIELIK ---
+Data i czas uruchomienia: 2025-06-08 20:46:01
+Przetworzone plików PDF: 1
+Użyty model BIELIK (przez Ollama): bielik-4.5b-q4km-final na localhost:11434
+Łączny czas przetwarzania: 7490.13 sekund
+--------------------------------------------------
+UWAGA: Zliczanie tokenów nie jest wspierane bezpośrednio przez to API Ollama. Sprawdź logi konsoli powyżej dla szczegółów odpowiedzi od BIELIKA.
